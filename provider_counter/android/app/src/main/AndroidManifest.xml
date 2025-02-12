@@ -1,5 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.provider_counter">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:label="provider_counter"
         android:name="${applicationName}"
